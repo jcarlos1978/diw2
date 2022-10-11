@@ -1,0 +1,102 @@
+* {
+  font-family: Tahoma, Verdana, Segoe, sans-serif;
+  background-color: #008000;
+}
+
+h1 {
+  color: #ffffff;
+  text-align: center;
+}
+
+.p1 {
+  font-size: 3em;
+  color: #ffff00;
+}
+
+.p2 {
+  font-size: 2em;
+  color: #ff0000;
+}
+
+.p3 {
+  font-size: 1em;
+  color: #0000ff;
+}
+
+ul {
+  list-style-type: none;
+  font-size: 1.5em;
+}
+
+li:nth-child(odd) {
+  color: #00ffff;
+  text-align: center;
+}
+
+li:nth-child(even) {
+  color: #8a2be2;
+  text-align: center;
+}
+
+.normal {
+  font-size: 1em;
+}
+
+.negrita {
+  font-weight: bold;
+}
+
+.cursiva {
+  font-style: italic;
+}
+
+.subrayado {
+  text-decoration: underline;
+}
+
+.tamano1 {
+  font-size: 1.5em;
+}
+
+.normal-rojo {
+  font-size: 1em;
+  color: #ff0000;
+}
+
+.tamano2-azul {
+  font-size: 2em;
+  color: #0000ff;
+}
+
+.negrita-cursiva {
+  font-weight: bold;
+  font-style: italic;
+}
+
+.negrita-subrayado {
+  font-weight: bold;
+  text-decoration: underline;
+}
+
+.cursiva-subrayado {
+  font-style: italic;
+  text-decoration: underline;
+}
+
+.negrita-cursiva-subrayado {
+  font-weight: bold;
+  font-style: italic;
+  text-decoration: underline;
+}
+
+a:visited {
+  color:#ff0000;
+}
+
+a:hover {
+    color: #0000ff;
+}
+
+.enlaces-index a {
+    text-decoration:none;
+}
